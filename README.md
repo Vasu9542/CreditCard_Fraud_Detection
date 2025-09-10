@@ -1,6 +1,4 @@
-
-
-"""# 💳 Credit Card Fraud Detection
+# 💳 Credit Card Fraud Detection
 
 A machine learning project to detect fraudulent credit card transactions using **Logistic Regression**.
 
@@ -122,7 +120,7 @@ disp = ConfusionMatrixDisplay(confusion_matrix=cm)
 disp.plot()
 plt.show()
 
-
+```
 These plots visually show dataset imbalance, model performance, and classification quality.
 
 🚀 How to Run
@@ -146,4 +144,4 @@ Try Random Forest or XGBoost
 Use SMOTE oversampling instead of under-sampling
 
 Add Precision, Recall, F1-score, ROC-AUC metrics
-"""
+
